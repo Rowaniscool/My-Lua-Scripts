@@ -1,2 +1,2 @@
-# My-Lua-Scripts
-All My Projects
+# A Few Scripts Ive Made For Fun
+
